@@ -2,6 +2,7 @@
 
 ### Description
 제작자: 마론군밤(MRKB)/평면(flattenstream)
+
 https://foundryvtt.com/packages/13thagekr 를 파운드리와 기존 시스템 업데이트에 맞추어 수정한 번역입니다.
 
 호환(fVTT): 0.9.0
