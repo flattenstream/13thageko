@@ -15,7 +15,7 @@ https://foundryvtt.com/packages/13thagekr 를 파운드리와 기존 시스템 �
 https://foundryvtt.com/packages/babele/
 
 ### Installization
-파운더리 VTT의 셋업 스크린에서 애드온 모듈 탭으로 들어간 후모듈 설치의 매니페스트 URL란에 이하의 URL을 붙여넣으십시오.
+파운드리 VTT의 설정 스크린에서 부가 모듈 탭으로 들어간 후 모듈 설치의 매니페스트 URL란에 이하의 URL을 붙여넣으십시오.
 
 https://raw.githubusercontent.com/flattenstream/13thageko/master/module.json
 
