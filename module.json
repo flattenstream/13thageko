@@ -3,7 +3,7 @@
 	"title": "(new)Translation: Korean [13th Age]",
 	"description": "<p>13시대 한국어화</p>",
 	"version": "2.0.0",
-	"minimumCoreVersion" : "9",
+	"minimumCoreVersion" : "0.8.9",
 	"compatibleCoreVersion": "9",
 	"author": "mrkb/flattenstream",
 	"esmodules": [
