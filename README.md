@@ -17,7 +17,7 @@ https://foundryvtt.com/packages/babele/
 ### Installization
 파운더리 VTT의 셋업 스크린에서 애드온 모듈 탭으로 들어간 후모듈 설치의 매니페스트 URL란에 이하의 URL을 붙여넣으십시오.
 
-https://raw.githubusercontent.com/MaronKB/13thagekr/master/module.json
+https://raw.githubusercontent.com/flattenstream/13thageko/master/module.json
 
 이후 해당 모듈을 활성화하고 설정에서 한국어(Korean)을 선택하시면 됩니다.
 
