@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MapoAgape';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoAgapeA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '국립박물관문화재단클래식B';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/국립박물관문화재단클래식B.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HeirofLightBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/HeirofLightBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MaruBuri-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/MaruBuri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#chat-log .card-header,
+.archmage.sheet h1,
+.archmage.sheet h2,
+.archmage.sheet h3,
+.archmage.sheet h4,
+.archmage.actor-sheet .sheet-header .charname > input,
+.archmage.actor-sheet .sheet-header .charlevel .level,
+.archmage.actor-sheet .details .character-detail .attribute-label,
+.archmage.actor-sheet .primary-attributes .attribute .attribute-name,
+.archmage.actor-sheet .statuses .status h4,
+.archmage .abilities .ability-name,
+.archmage .abilities .ability-header,
+.class-header h3,
+.class-list .item .class-levels,
+.class-list .item .class-name,
+.archmage.actor-sheet.npc-sheet .charlevel .initiative,
+.archmage-escalation::after,
+.compendium .directory-list--archmage h3.entry-group,
+.compendium .directory-list--archmage .directory-item,
+.compendium .directory-list--archmage .directory-item h4.entry-name a,
+.archmage-v2 .unit-title,
+.archmage-v2.sheet .section--sidebar .unit-title,
+.archmage-v2 .rollable,
+.archmage-v2.sheet .character-header input[type="text"], .archmage-v2.sheet .character-header input[type="number"],
+.archmage-v2 h1, .archmage-v2 h2, .archmage-v2 h3, .archmage-v2 h4 {
+	font-family: '국립박물관문화재단클래식B';
+}
+.archmage-v2.sheet .window-content .section--sidebar, .archmage-v2.sheet .window-content .section--main,
+.archmage-v2.sheet .section--abilities .ability-name,
+.archmage-v2.sheet .editor-content,
+.archmage-v2.sheet .background-name {
+	 font-family: 'MaruBuri-Regular';
+}
+.archmage.sheet,
+.archmage.actor-sheet .primary-attributes .attribute .attribute-value,
+.archmage.actor-sheet .primary-attributes .attribute .attribute-value,
+.archmage .abilities .ability .ability-score > input,
+.archmage .abilities .ability .ability-mod,
+.archmage .abilities .ability .ability-lvl,
+.archmage-escalation,
+.archmage-v2.sheet .section--attributes .unit--defenses .unit-subtitle {
+	font-family: 'NEXON Lv1 Gothic OTF';
+}
