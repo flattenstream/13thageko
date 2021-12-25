@@ -1,10 +1,10 @@
 {
 	"name": "13thagekr",
-	"title": "Translation: Korean [13th Age]",
+	"title": "(new)Translation: Korean [13th Age]",
 	"description": "<p>13시대 한국어화</p>",
-	"version": "1.2.6",
-	"minimumCoreVersion" : "0.6.4",
-	"compatibleCoreVersion": "1.0.0",
+	"version": "2.0.0",
+	"minimumCoreVersion" : "9",
+	"compatibleCoreVersion": "9",
 	"author": "mrkb/flattenstream",
 	"esmodules": [
 	"babele-register.js"
@@ -20,6 +20,6 @@
     }
 	],
 	"url": "https://github.com/MaronKB/13thagekr",
-	"manifest": "https://raw.githubusercontent.com/MaronKB/13thagekr/master/module.json",
-	"download": "https://github.com/MaronKB/13thagekr/archive/master.zip"
+	"manifest": "https://raw.githubusercontent.com/flattenstream/13thageko/master/module.json",
+	"download": "https://github.com/flattenstream/13thageko/archive/master.zip"
 }
