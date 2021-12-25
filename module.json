@@ -21,5 +21,5 @@
 	],
 	"url": "https://github.com/flattenstream/13thageko",
 	"manifest": "https://raw.githubusercontent.com/flattenstream/13thageko/master/module.json",
-	"download": "https://github.com/flattenstream/13thageko/archive/master.zip"
+	"download": "https://github.com/flattenstream/13thageko/archive/refs/heads/main.zip"
 }
