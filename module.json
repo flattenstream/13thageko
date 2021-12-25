@@ -4,7 +4,7 @@
 	"description": "<p>13시대 한국어화</p>",
 	"version": "2.0.0",
 	"minimumCoreVersion" : "0.6.4",
-	"compatibleCoreVersion": "1.0.0",
+	"compatibleCoreVersion": "9",
 	"author": "mrkb/flattenstream",
 	"esmodules": [
 	"babele-register.js"
