@@ -19,7 +19,7 @@
       "path": "ko.json"
     }
 	],
-	"url": "https://github.com/MaronKB/13thagekr",
+	"url": "https://github.com/flattenstream/13thageko",
 	"manifest": "https://raw.githubusercontent.com/flattenstream/13thageko/master/module.json",
 	"download": "https://github.com/flattenstream/13thageko/archive/master.zip"
 }
