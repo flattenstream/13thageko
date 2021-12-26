@@ -1,0 +1,10 @@
+{
+  "ARCHMAGE.SETTINGS.ShowDebugLogsName": "디버그 로그 표시",
+  "ARCHMAGE.SETTINGS.ShowDebugLogsHint": "버그 리포트를 봅니다.",
+  "ARCHMAGE.SETTINGS.extendedStatusEffectsName": "확장된 효과 상태 목록",
+  "ARCHMAGE.SETTINGS.extendedStatusEffectsHint": "활성화 시 공식 상태 목록과 유용한 토큰 마커를 표시합니다.",
+  "ARCHMAGE.SETTINGS.initiativeDexTiebreakerName": "행동순서 수정치로 승자를 결정하기",
+  "ARCHMAGE.SETTINGS.initiativeDexTiebreakerHint": "활성화 시 행동순서 수정치로 동점의 행동순서에서 승자를 결정합니다. 활성화되어있지 않으면 몬스터가 앞섭니다.",
+  "ARCHMAGE.SETTINGS.automateHPConditionsName": "사망과 비틀거림 상태 자동화",
+  "ARCHMAGE.SETTINGS.automateHPConditionsHint": "활성화하면 HP 변경 후 비틀거림 및 사망 상태가 자동으로 적용되거나 해제됩니다. Combat Utility Belt와 같은 모듈을 통해 사용자 정의 상태를 사용하는 경우 이 기능을 비활성화하십시오. 해당 모듈이 활성화되어 있으면 이 기능은 작동하지 않습니다."
+}
