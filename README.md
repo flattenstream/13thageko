@@ -3,16 +3,11 @@
 ### Description
 제작자: 마론군밤(MRKB)/평면(flattenstream)
 
-https://foundryvtt.com/packages/13thagekr 를 파운드리와 기존 시스템 업데이트에 맞추어 수정한 번역입니다.
+https://foundryvtt.com/packages/13thagekr 를 파운드리와 기존 시스템 업데이트에 맞추어 수정한 번역입니다. 컴펜디움은 번역되어있지 않습니다.
 
 호환(fVTT): 0.8.9, 9
 
 호환(Archmage): 1.15.2
-
-### Requirements
-컴펜디움 번역을 위해 본 모듈은 Babele를 필요로 합니다. Babele는 이하의 링크에서 다운받을 수 있습니다.
-
-https://foundryvtt.com/packages/babele/
 
 ### Installization
 파운드리 VTT의 설정 스크린에서 부가 모듈 탭으로 들어간 후 모듈 설치의 매니페스트 URL란에 이하의 URL을 붙여넣으십시오.
